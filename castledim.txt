@@ -1,0 +1,14 @@
+1st floor total = 48
+minaret = 7
+second floor bottom of minaret to top = 39
+
+1st floor width = 80
+2nd floor width = 48
+
+door height = 33
+door width at floor = 16
+
+window height = 17
+window width = 9 (or eight from brick)
+
+
